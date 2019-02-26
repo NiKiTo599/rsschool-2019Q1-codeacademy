@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Akulich Nikita
+HTML CSS Basics https://www.codecademy.com/users/NiKiTo5/achievements
